@@ -1,0 +1,8 @@
+hi
+hello
+world
+hi, how are you?
+HI, John
+Hi, what's your name?
+Backbone history
+high performance
