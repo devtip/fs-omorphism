@@ -1,4 +1,5 @@
-var fs = require('./util');
+// 依赖
+var fs = require('./fs');
 
 var FILENAME = 'text.txt';
 
